@@ -116,3 +116,7 @@ CLAUDE.md
 .bolt/
 .v0/
 ai_pos/
+
+# Ignore these specific files everywhere
+token.json
+credentials.json
